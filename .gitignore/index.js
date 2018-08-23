@@ -63,5 +63,4 @@ bot.on('message', message => {
     if (message.content === prefix + "issou"){
         message.channel.sendMessage("La team PikaWolf est une team créer par Laval ! Au début, il y avait que Water_Fire_YTB qui s'occuper des recrutements ! Maintenant, nous sommes beaucoups plus :)");
     }
-                         
 });
